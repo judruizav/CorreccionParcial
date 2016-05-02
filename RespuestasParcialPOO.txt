@@ -1,0 +1,26 @@
+1. a. V
+   b. F
+   c. F
+   d. V
+   e. F
+   f. F
+   g. V
+   h. V
+   i. V
+   j. V
+
+2. a.1)F
+     2)F
+     3)V
+   b.a)ArithmeticException
+     b)ArrayIndexOutOfBoundException
+     c)RunTimeException
+     e)NullPointerException
+     f)No arroja Exception
+3. A) " Performs Person's tasks"
+      " Invoke Employee's"
+      " Performs Employee's tasks"
+      " Performs Faculty's tasks"
+   B.a) V
+     b) F
+     C) V
